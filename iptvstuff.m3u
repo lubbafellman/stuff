@@ -1,0 +1,359 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="▬ Finland [FI] ▬" tvg-logo="http://picon.space/finland.png" group-title="Finland",▬ Finland [FI] ▬
+#EXTINF:-1 tvg-id="YleTV1.fi" tvg-name="Yle TV1 HD FI" tvg-logo="http://picon.space/yletv1.png" group-title="Finland",Yle TV1 HD FI
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15554.ts
+#EXTINF:-1 tvg-id="YleTV2.fi" tvg-name="Yle TV2 HD FI" tvg-logo="http://picon.space/yletv2.png" group-title="Finland",Yle TV2 HD FI
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15070.ts
+#EXTINF:-1 tvg-id="MTV3.fi" tvg-name="MTV3 HD FI" tvg-logo="http://picon.space/mtv3fi.png" group-title="Finland",MTV3 HD FI
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14440.ts
+#EXTINF:-1 tvg-id="" tvg-name="▬ Sweden [SE] ▬" tvg-logo="http://picon.space/sweden.png" group-title="Sweden",▬ Sweden [SE] ▬
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/16515.ts
+#EXTINF:-1 tvg-id="SVT1.se" tvg-name="SVT1 FHD SE" tvg-logo="http://picon.space/svt1hd.png" group-title="Sweden",SVT1 FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15553.ts
+#EXTINF:-1 tvg-id="SVT2.se" tvg-name="SVT2 FHD SE" tvg-logo="http://picon.space/svt2hd.png" group-title="Sweden",SVT2 FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15515.ts
+#EXTINF:-1 tvg-id="SVT24.se" tvg-name="SVTB/SVT24 FHD SE" tvg-logo="http://picon.space/svt24hdse.png" group-title="Sweden",SVTB/SVT24 FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/16578.ts
+#EXTINF:-1 tvg-id="TV3.se" tvg-name="TV3 FHD SE" tvg-logo="http://picon.space/tv3se.png" group-title="Sweden",TV3 FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15560.ts
+#EXTINF:-1 tvg-id="TV4.se" tvg-name="TV4 FHD SE" tvg-logo="http://picon.space/tv4se.png" group-title="Sweden",TV4 FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14429.ts
+#EXTINF:-1 tvg-id="TV4Guld.se" tvg-name="TV4 Guld SE" tvg-logo="http://picon.space/tv4guld.png" group-title="Sweden",TV4 Guld SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11543.ts
+#EXTINF:-1 tvg-id="Kanal5.se" tvg-name="Kanal 5 FHD SE" tvg-logo="http://picon.space/kanal5s.png" group-title="Sweden",Kanal 5 FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11562.ts
+#EXTINF:-1 tvg-id="TV6.se" tvg-name="TV6 HD SE" tvg-logo="http://picon.space/tv6ee.png" group-title="Sweden",TV6 HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15542.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sjuan HD SE" tvg-logo="" group-title="Sweden",Sjuan HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/20421.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV8 FHD SE" tvg-logo="http://picon.space/tv8se.png" group-title="Sweden",TV8 FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/21914.ts
+#EXTINF:-1 tvg-id="Kanal9.se" tvg-name="Kanal 9 FHD SE" tvg-logo="http://picon.space/kanal9.png" group-title="Sweden",Kanal 9 FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11617.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV10 FHD SE" tvg-logo="http://picon.space/tv10se.png" group-title="Sweden",TV10 FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/21915.ts
+#EXTINF:-1 tvg-id="Kanal11.se" tvg-name="Kanal 11 FHD SE" tvg-logo="http://picon.space/kanal11se.png" group-title="Sweden",Kanal 11 FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15498.ts
+#EXTINF:-1 tvg-id="TV12.se" tvg-name="TV12 FHD SE" tvg-logo="http://picon.space/tv12se.png" group-title="Sweden",TV12 FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15527.ts
+#EXTINF:-1 tvg-id="DisneyChannel.se" tvg-name="Disney Channel SE" tvg-logo="http://picon.space/disneychannel.png" group-title="Sweden",Disney Channel SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11549.ts
+#EXTINF:-1 tvg-id="DisneyJr.se" tvg-name="Disney Junior SE" tvg-logo="http://picon.space/disneyjunior.png" group-title="Sweden",Disney Junior SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11548.ts
+#EXTINF:-1 tvg-id="DisneyXD.se" tvg-name="Disney XD SE" tvg-logo="http://picon.space/disneyxd.png" group-title="Sweden",Disney XD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11547.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.se" tvg-name="Animal Planet HD SE" tvg-logo="http://picon.space/animalplanethd.png" group-title="Sweden",Animal Planet HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15551.ts
+#EXTINF:-1 tvg-id="BBCEarth.se" tvg-name="BBC Earth HD SE" tvg-logo="http://picon.space/bbcearth.png" group-title="Sweden",BBC Earth HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14456.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC Brit HD SE" tvg-logo="" group-title="Sweden",BBC Brit HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/19633.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.se" tvg-name="Discovery Channel FHD SE" tvg-logo="http://picon.space/discoveryhd.png" group-title="Sweden",Discovery Channel FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15495.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.se" tvg-name="Discovery Science SE" tvg-logo="http://picon.space/discoveryscience.png" group-title="Sweden",Discovery Science SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11618.ts
+#EXTINF:-1 tvg-id="DiscoveryWorld.se" tvg-name="Discovery World SE" tvg-logo="http://picon.space/discoveryworld.png" group-title="Sweden",Discovery World SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11619.ts
+#EXTINF:-1 tvg-id="H2.se" tvg-name="H2 SE" tvg-logo="http://picon.space/h2.png" group-title="Sweden",H2 SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/17808.ts
+#EXTINF:-1 tvg-id="History.se" tvg-name="History HD SE" tvg-logo="http://picon.space/historyhd.png" group-title="Sweden",History HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14446.ts
+#EXTINF:-1 tvg-id="NatGeo.se" tvg-name="National Geographic HD SE" tvg-logo="http://picon.space/nationalgeo.png" group-title="Sweden",National Geographic HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14666.ts
+#EXTINF:-1 tvg-id="NatGeoWild.se" tvg-name="National Geographic Wild SE" tvg-logo="http://picon.space/natgeowild.png" group-title="Sweden",National Geographic Wild SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11578.ts
+#EXTINF:-1 tvg-id="TLC.se" tvg-name="TLC FHD SE" tvg-logo="http://picon.space/tlc.png" group-title="Sweden",TLC FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15503.ts
+#EXTINF:-1 tvg-id="Travel.se" tvg-name="Travel Channel HD SE" tvg-logo="http://picon.space/travelchannel.png" group-title="Sweden",Travel Channel HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14428.ts
+#EXTINF:-1 tvg-id="TV4Fakta.se" tvg-name="TV4 Fakta SE" tvg-logo="http://picon.space/tv4fakta.png" group-title="Sweden",TV4 Fakta SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11544.ts
+#EXTINF:-1 tvg-id="ViasatExplorer.se" tvg-name="Viasat Explore SE" tvg-logo="http://picon.space/viasatexplore.png" group-title="Sweden",Viasat Explore SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/12360.ts
+#EXTINF:-1 tvg-id="ViasatHistory.se" tvg-name="Viasat History SE" tvg-logo="http://picon.space/viasathistory.png" group-title="Sweden",Viasat History SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/12283.ts
+#EXTINF:-1 tvg-id="ComedyCentral.se" tvg-name="Comedy Central SE" tvg-logo="http://picon.space/comedycentral.png" group-title="Sweden",Comedy Central SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15543.ts
+#EXTINF:-1 tvg-id="EEntertainment.se" tvg-name="E! SE" tvg-logo="http://picon.space/e.png" group-title="Sweden",E! SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/12079.ts
+#EXTINF:-1 tvg-id="FOX.se" tvg-name="FOX SE" tvg-logo="http://picon.space/fox.png" group-title="Sweden",FOX SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15555.ts
+#EXTINF:-1 tvg-id="MTV.se" tvg-name="MTV SE" tvg-logo="http://picon.space/mtv.png" group-title="Sweden",MTV SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14668.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 SE" tvg-logo="http://picon.space/vh1.png" group-title="Sweden",VH1 SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/18670.ts
+#EXTINF:-1 tvg-id="CMoreHits.se" tvg-name="C More Hits FHD SE" tvg-logo="http://picon.space/cmorehitshdse.png" group-title="Sweden",C More Hits FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11559.ts
+#EXTINF:-1 tvg-id="CMoreFirst.se" tvg-name="C More First FHD SE" tvg-logo="http://picon.space/cmorefirsthdse.png" group-title="Sweden",C More First FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11558.ts
+#EXTINF:-1 tvg-id="CMoreSeries.se" tvg-name="C More Series FHD SE" tvg-logo="http://picon.space/cmoreserieshdse.png" group-title="Sweden",C More Series FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11561.ts
+#EXTINF:-1 tvg-id="CMoreStars.se" tvg-name="C More Stars FHD SE" tvg-logo="http://picon.space/cmnorestarsse.png" group-title="Sweden",C More Stars FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15556.ts
+#EXTINF:-1 tvg-id="SFkanalen.se" tvg-name="SF-Kanalen SE" tvg-logo="http://picon.space/sfkanalen.png" group-title="Sweden",SF-Kanalen SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11565.ts
+#EXTINF:-1 tvg-id="TV4Film.se" tvg-name="TV4 Film SE" tvg-logo="http://picon.space/tv4film.png" group-title="Sweden",TV4 Film SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11541.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Film Hits HD SE" tvg-logo="" group-title="Sweden",Viasat Film Hits HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/19809.ts
+#EXTINF:-1 tvg-id="ViasatFilmAction.se" tvg-name="Viasat Film Action HD SE" tvg-logo="http://picon.space/viasatfilmactionse.png" group-title="Sweden",Viasat Film Action HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11554.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Film Premiere HD SE" tvg-logo="" group-title="Sweden",Viasat Film Premiere HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/19811.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Series HD SE" tvg-logo="" group-title="Sweden",Viasat Series HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/20026.ts
+#EXTINF:-1 tvg-id="ViasatFilmFamily.se" tvg-name="Viasat Film Family SE" tvg-logo="http://picon.space/viasatfilmfamily.png" group-title="Sweden",Viasat Film Family SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11552.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sportkanalen FHD SE" tvg-logo="" group-title="Sweden",Sportkanalen FHD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/18930.ts
+#EXTINF:-1 tvg-id="CMoreFotboll.se" tvg-name="C More Fotboll HD SE" tvg-logo="http://picon.space/cmorefotbollhd.png" group-title="Sweden",C More Fotboll HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14455.ts
+#EXTINF:-1 tvg-id="" tvg-name="C More Golf SE" tvg-logo="" group-title="Sweden",C More Golf SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/19476.ts
+#EXTINF:-1 tvg-id="CMoreHockey.se" tvg-name="C More Hockey HD SE" tvg-logo="http://picon.space/cmorehockeyhd.png" group-title="Sweden",C More Hockey HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14454.ts
+#EXTINF:-1 tvg-id="CMoreHockey.se" tvg-name="C More Hockey HD [Backup] SE" tvg-logo="http://picon.space/cmorehockeyhd.png" group-title="Sweden",C More Hockey HD [Backup] SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15552.ts
+#EXTINF:-1 tvg-id="CMoreLive.se" tvg-name="C More Live HD SE" tvg-logo="http://picon.space/cmorelivehdse.png" group-title="Sweden",C More Live HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15530.ts
+#EXTINF:-1 tvg-id="CMoreLive2.se" tvg-name="C More Live 2 HD SE" tvg-logo="http://picon.space/cmorelive2hd.png" group-title="Sweden",C More Live 2 HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15531.ts
+#EXTINF:-1 tvg-id="CMoreLive3.se" tvg-name="C More Live 3 HD SE" tvg-logo="http://picon.space/cmorelive3hd.png" group-title="Sweden",C More Live 3 HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15532.ts
+#EXTINF:-1 tvg-id="CMoreLive4.se" tvg-name="C More Live 4 HD SE" tvg-logo="http://picon.space/cmorelive4hd.png" group-title="Sweden",C More Live 4 HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15533.ts
+#EXTINF:-1 tvg-id="CMoreSport.se" tvg-name="C More Sport HD SE" tvg-logo="http://picon.space/cmoresporthdse.png" group-title="Sweden",C More Sport HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14453.ts
+#EXTINF:-1 tvg-id="Eurosport.se" tvg-name="Eurosport 1 HD SE" tvg-logo="http://picon.space/eurosport1hd.png" group-title="Sweden",Eurosport 1 HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15535.ts
+#EXTINF:-1 tvg-id="Eurosport2.se" tvg-name="Eurosport 2 HD SE" tvg-logo="http://picon.space/eurosport2hd.png" group-title="Sweden",Eurosport 2 HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15534.ts
+#EXTINF:-1 tvg-id="TV3Sport.se" tvg-name="TV3 Sport SE" tvg-logo="http://picon.space/tv3sport.png" group-title="Sweden",TV3 Sport SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14445.ts
+#EXTINF:-1 tvg-id="ViasatFotboll.se" tvg-name="Viasat Fotboll HD SE" tvg-logo="http://picon.space/viasatfotboll.png" group-title="Sweden",Viasat Fotboll HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11567.ts
+#EXTINF:-1 tvg-id="ViasatFotboll.se" tvg-name="Viasat Fotboll HD [Backup] SE" tvg-logo="http://picon.space/viasatfotbollhd.png" group-title="Sweden",Viasat Fotboll HD [Backup] SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14420.ts
+#EXTINF:-1 tvg-id="ViasatGolf.se" tvg-name="Viasat Golf HD SE" tvg-logo="http://picon.space/viasatgolf.png" group-title="Sweden",Viasat Golf HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11574.ts
+#EXTINF:-1 tvg-id="ViasatHockey.se" tvg-name="Viasat Hockey HD SE" tvg-logo="http://picon.space/viasathockey.png" group-title="Sweden",Viasat Hockey HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/11568.ts
+#EXTINF:-1 tvg-id="ViasatMotor.se" tvg-name="Viasat Motor HD SE" tvg-logo="http://picon.space/viasatmotorhdse.png" group-title="Sweden",Viasat Motor HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/18228.ts
+#EXTINF:-1 tvg-id="ViasatSport.se" tvg-name="Viasat Sport HD SE" tvg-logo="http://picon.space/viasatsporthd.png" group-title="Sweden",Viasat Sport HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14416.ts
+#EXTINF:-1 tvg-id="ViasatSportPremium.se" tvg-name="Viasat Sport Premium HD SE" tvg-logo="http://picon.space/viasatsportpremiumse.png" group-title="Sweden",Viasat Sport Premium HD SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/18226.ts
+#EXTINF:-1 tvg-id="ViasatNature.se" tvg-name="Viasat Nature / Playboy SE" tvg-logo="http://picon.space/viasatnature.png" group-title="Sweden",Viasat Nature / Playboy SE
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14663.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="▬ United Kingdom [UK] ▬" tvg-logo="http://picon.space/unitedkingdom.png" group-title="United Kingdom",▬ United Kingdom [UK] ▬
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News HD UK" tvg-logo="http://picon.space/bbcnewshd.png" group-title="United Kingdom",BBC News HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14701.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News UK" tvg-logo="http://picon.space/bbcnewshd.png" group-title="United Kingdom",BBC World News UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/18385.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC One FHD UK" tvg-logo="http://picon.space/bbconehd.png" group-title="United Kingdom",BBC One FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/1994.ts
+##EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 FHD UK" tvg-logo="http://picon.space/btsport1hd.png" group-title="United Kingdom",BT Sport 1 FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14657.ts
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD UK" tvg-logo="http://picon.space/btsport1hd.png" group-title="United Kingdom",BT Sport 1 HD UK
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 FHD UK" tvg-logo="http://picon.space/btsport2hd.png" group-title="United Kingdom",BT Sport 2 FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14658.ts
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3 FHD UK" tvg-logo="http://picon.space/btsport3hd.png" group-title="United Kingdom",BT Sport 3 FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14659.ts
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport ESPN HD UK" tvg-logo="http://picon.space/btsportespnhd.png" group-title="United Kingdom",BT Sport ESPN HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/1980.ts
+#EXTINF:-1 tvg-id="BTSportX1.uk" tvg-name="BT Sport Extra 1 UK" tvg-logo="http://picon.space/btsportextra1.png" group-title="United Kingdom",BT Sport Extra 1 UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14778.ts
+#EXTINF:-1 tvg-id="BTSportX2.uk" tvg-name="BT Sport Extra 2 UK" tvg-logo="http://picon.space/btsportextra2.png" group-title="United Kingdom",BT Sport Extra 2 UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14809.ts
+#EXTINF:-1 tvg-id="BTSportX3.uk" tvg-name="BT Sport Extra 3 UK" tvg-logo="http://picon.space/btsportextra3.png" group-title="United Kingdom",BT Sport Extra 3 UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14808.ts
+#EXTINF:-1 tvg-id="BTSportX4.uk" tvg-name="BT Sport Extra 4 UK" tvg-logo="http://picon.space/btsportextra4.png" group-title="United Kingdom",BT Sport Extra 4 UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14807.ts
+#EXTINF:-1 tvg-id="BTSportX6.uk" tvg-name="BT Sport Extra 5 UK" tvg-logo="http://picon.space/btsportextra6.png" group-title="United Kingdom",BT Sport Extra 5 UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14806.ts
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3 HD UK" tvg-logo="http://picon.space/btsport3hd.png" group-title="United Kingdom",BT Sport 3 HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14903.ts
+#EXTINF:-1 tvg-id="BikeChannel.uk" tvg-name="Motorsport TV UK" tvg-logo="http://picon.space/bike.png" group-title="United Kingdom",Motorsport TV UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14811.ts
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS Action UK" tvg-logo="http://picon.space/cbsaction.png" group-title="United Kingdom",CBS Action UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/3944.ts
+#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="CBS Drama UK" tvg-logo="http://picon.space/cbsdrama.png" group-title="United Kingdom",CBS Drama UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/3945.ts
+#EXTINF:-1 tvg-id="CBSReality+1.uk" tvg-name="CBS Reality +1 UK" tvg-logo="http://picon.space/cbsrealityplus1.png" group-title="United Kingdom",CBS Reality +1 UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14776.ts
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="CBS Reality UK" tvg-logo="http://picon.space/cbsreality.png" group-title="United Kingdom",CBS Reality UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/3946.ts
+#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="Chelsea TV HD UK" tvg-logo="http://picon.space/chelseatv.png" group-title="United Kingdom",Chelsea TV HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/1990.ts
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="Comedy Central HD UK" tvg-logo="http://picon.space/comedycenthd.png" group-title="United Kingdom",Comedy Central HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/16722.ts
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="Comedy Central Ireland UK" tvg-logo="http://picon.space/comedycentral.png" group-title="United Kingdom",Comedy Central Ireland UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14846.ts
+#EXTINF:-1 tvg-id="ComedyCentral+1.uk" tvg-name="Comedy Central +1 UK" tvg-logo="http://picon.space/comedycentralplus1.png" group-title="United Kingdom",Comedy Central +1 UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14847.ts
+#EXTINF:-1 tvg-id="ComedyXtra+1.uk" tvg-name="Comedy Central Extra +1 UK" tvg-logo="http://picon.space/comedycentralextraplus1.png" group-title="United Kingdom",Comedy Central Extra +1 UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14845.ts
+#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="Comedy Central Extra Ireland UK" tvg-logo="http://picon.space/comedycentralextra.png" group-title="United Kingdom",Comedy Central Extra Ireland UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14844.ts
+#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="Comedy Central Extra UK" tvg-logo="http://picon.space/comedycentralextra.png" group-title="United Kingdom",Comedy Central Extra UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14762.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="Discovery Channel HD UK" tvg-logo="http://picon.space/discoverychannelhd.png" group-title="United Kingdom",Discovery Channel HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14863.ts
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History UK" tvg-logo="http://picon.space/discoveryhistory.png" group-title="United Kingdom",Discovery History UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/1985.ts
+#EXTINF:-1 tvg-id="HomeandHealth.uk" tvg-name="Discovery Home & Health UK" tvg-logo="http://picon.space/discoveryhomeandhealth.png" group-title="United Kingdom",Discovery Home & Health UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14833.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science UK" tvg-logo="http://picon.space/discoveryscience.png" group-title="United Kingdom",Discovery Science UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/2679.ts
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo UK" tvg-logo="http://picon.space/discoveryturbo.png" group-title="United Kingdom",Discovery Turbo UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/3978.ts
+#EXTINF:-1 tvg-id="DisneyChannel.uk" tvg-name="Disney Channel HD UK" tvg-logo="http://picon.space/disneychannel.png" group-title="United Kingdom",Disney Channel HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/1984.ts
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="Disney Junior HD UK" tvg-logo="http://picon.space/disneyjunior.png" group-title="United Kingdom",Disney Junior HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/3969.ts
+#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="Disney XD HD UK" tvg-logo="http://picon.space/disneyxd.png" group-title="United Kingdom",Disney XD HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/2675.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports Edge UK" tvg-logo="" group-title="United Kingdom",Eleven Sports Edge UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/19652.ts
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1 HD UK" tvg-logo="http://picon.space/eurosport1hd.png" group-title="United Kingdom",Eurosport 1 HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/13091.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 HD UK" tvg-logo="http://picon.space/eurosport2hd.png" group-title="United Kingdom",Eurosport 2 HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/13092.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports UK" tvg-logo="http://picon.space/fightsports.png" group-title="United Kingdom",Fight Sports UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14449.ts
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network UK" tvg-logo="http://picon.space/foodnetwork.png" group-title="United Kingdom",Food Network UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/3991.ts
+#EXTINF:-1 tvg-id="FoodNetwrk+1.uk" tvg-name="Food Network +1 UK" tvg-logo="http://picon.space/foodnetworkplus1.png" group-title="United Kingdom",Food Network +1 UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14878.ts
+#EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="Horror Channel UK" tvg-logo="http://picon.space/horrorchannel.png" group-title="United Kingdom",Horror Channel UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/3941.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD UK" tvg-logo="" group-title="United Kingdom",MTV HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/20031.ts
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="National Geographic HD UK" tvg-logo="http://picon.space/nationalgeographic.png" group-title="United Kingdom",National Geographic HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/3561.ts
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="National Geographic Wild HD UK" tvg-logo="http://picon.space/natgeowildhd.png" group-title="United Kingdom",National Geographic Wild HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/1968.ts
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15017.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event FHD UK" tvg-logo="http://picon.space/skysportsmaineventuk.png" group-title="United Kingdom",Sky Sports Main Event FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14651.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket FHD UK" tvg-logo="http://picon.space/skysportscricketuk.png" group-title="United Kingdom",Sky Sports Cricket FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14652.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action FHD UK" tvg-logo="http://picon.space/skysportsactionuk.png" group-title="United Kingdom",Sky Sports Action FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14653.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf FHD UK" tvg-logo="http://picon.space/skysportsgolfuk.png" group-title="United Kingdom",Sky Sports Golf FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14654.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League FHD UK" tvg-logo="http://picon.space/skysportspremierleagueuk.png" group-title="United Kingdom",Sky Sports Premier League FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14655.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 FHD UK" tvg-logo="http://picon.space/skysportsf1hd-clivebesle.png" group-title="United Kingdom",Sky Sports F1 FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/14656.ts
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="Sky Cinema Action & Adventure HD UK" tvg-logo="http://picon.space/skycinemaactionandadventurehd.png" group-title="United Kingdom",Sky Cinema Action & Adventure HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/1961.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy FHD UK" tvg-logo="http://picon.space/skycinemacomedyhd.png" group-title="United Kingdom",Sky Cinema Comedy FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/20109.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Crime & Thriller FHD UK" tvg-logo="http://picon.space/skycinemacrimeandthrillerhd.png" group-title="United Kingdom",Sky Cinema Crime & Thriller FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/20118.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Disney FHD UK" tvg-logo="http://picon.space/skycinemadisneyhd.png" group-title="United Kingdom",Sky Cinema Disney FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/20110.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama & Romance FHD UK" tvg-logo="http://picon.space/skycinemadramaandromance.png" group-title="United Kingdom",Sky Cinema Drama & Romance FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/20111.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family FHD UK" tvg-logo="http://picon.space/skycinemafamily.png" group-title="United Kingdom",Sky Cinema Family FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/20112.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Greats FHD UK" tvg-logo="http://picon.space/skycinemagreats.png" group-title="United Kingdom",Sky Cinema Greats FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/20113.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Hits FHD UK" tvg-logo="http://picon.space/skycinemahits.png" group-title="United Kingdom",Sky Cinema Hits FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/20114.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Premiere FHD UK" tvg-logo="http://picon.space/skycinemapremierehd.png" group-title="United Kingdom",Sky Cinema Premiere FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/20115.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Sci-Fi & Horror FHD UK" tvg-logo="http://picon.space/skycinemascifiandhorrorhd.png" group-title="United Kingdom",Sky Cinema Sci-Fi & Horror FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/20116.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema  Select FHD UK" tvg-logo="http://picon.space/skycinemaselectuk.png" group-title="United Kingdom",Sky Cinema  Select FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/20117.ts
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Living HD UK" tvg-logo="http://picon.space/skylivinghd.png" group-title="United Kingdom",Sky Living HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/16720.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action HD UK" tvg-logo="http://picon.space/skysportsactionuk.png" group-title="United Kingdom",Sky Sports Action HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/3598.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena FHD UK" tvg-logo="http://picon.space/skysportsarenahduk.png" group-title="United Kingdom",Sky Sports Arena FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/16969.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event HD UK" tvg-logo="http://picon.space/skysportsmaineventuk.png" group-title="United Kingdom",Sky Sports Main Event HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/5600.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football FHD UK" tvg-logo="http://picon.space/skysportsfootballuk.png" group-title="United Kingdom",Sky Sports Football FHD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/16970.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf HD UK" tvg-logo="http://picon.space/skysportsgolfuk.png" group-title="United Kingdom",Sky Sports Golf HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/3600.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League HD UK" tvg-logo="http://picon.space/skysportspremierleagueuk.png" group-title="United Kingdom",Sky Sports Premier League HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/4458.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD UK" tvg-logo="http://picon.space/skysportsf1hd-clivebesle.png" group-title="United Kingdom",Sky Sports F1 HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/3603.ts
+#EXTINF:-1 tvg-id="Syfy.uk" tvg-name="Syfy HD UK" tvg-logo="http://picon.space/syfyhd.png" group-title="United Kingdom",Syfy HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/16727.ts
+#EXTINF:-1 tvg-id="W.uk" tvg-name="W HD UK" tvg-logo="http://picon.space/whd.png" group-title="United Kingdom",W HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/16726.ts
+#EXTINF:-1 tvg-id="eirSport1.uk" tvg-name="Eir Sport 1 UK" tvg-logo="http://picon.space/eirsport1.png" group-title="United Kingdom",Eir Sport 1 UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/12343.ts
+#EXTINF:-1 tvg-id="eirSport2.uk" tvg-name="Eir Sport 2 UK" tvg-logo="http://picon.space/eirsport2.png" group-title="United Kingdom",Eir Sport 2 UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/12344.ts
+#EXTINF:-1 tvg-id="" tvg-name="▬ Premier League ▬" tvg-logo="http://picon.space/premierleagueuk.png" group-title="Premier League & Efl",▬ Premier League ▬
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/16510.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Extra 1 [Leicester v Liverpool] UK" tvg-logo="http://picon.space/nbcsportsliveextra.png" group-title="Premier League & Efl",NBC Sports Extra 1 [Leicester v Liverpool] UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/8403.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Extra 2 [Cardiff v Arsenal] UK" tvg-logo="http://picon.space/nbcsportsliveextra.png" group-title="Premier League & Efl",NBC Sports Extra 2 [Cardiff v Arsenal] UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/8404.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Extra 3 [Burnely v Man U] UK" tvg-logo="http://picon.space/nbcsportsliveextra.png" group-title="Premier League & Efl",NBC Sports Extra 3 [Burnely v Man U] UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/8405.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Extra 4 [Burnely v Man U] UK" tvg-logo="http://picon.space/nbcsportsliveextra.png" group-title="Premier League & Efl",NBC Sports Extra 4 [Burnely v Man U] UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/8406.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Extra 5 [Brighton v Fulhamton] HD UK" tvg-logo="http://picon.space/nbcsportsliveextra.png" group-title="Premier League & Efl",NBC Sports Extra 5 [Brighton v Fulhamton] HD UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/8407.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Extra 6 [Chelsea v Bournemouth] UK" tvg-logo="http://picon.space/nbcsportsliveextra.png" group-title="Premier League & Efl",NBC Sports Extra 6 [Chelsea v Bournemouth] UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/8408.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Extra 7 [Celtic vs Rangers] UK" tvg-logo="http://picon.space/nbcsportsliveextra.png" group-title="Premier League & Efl",NBC Sports Extra 7 [Celtic vs Rangers] UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/8409.ts
+#EXTINF:-1 tvg-id="NBC Sports Network US" tvg-name="NBC Sports Network HD US" tvg-logo="http://picon.space/nbcsporttvus.png" group-title="Premier League & Efl",NBC Sports Network HD US
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/9008.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports UK" tvg-logo="http://picon.space/skynetsportshd.png" group-title="Premier League & Efl",Sky Net Sports UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/13515.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 1 UK" tvg-logo="http://picon.space/skynetsports1.png" group-title="Premier League & Efl",Sky Net Sports 1 UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/13514.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 2 UK" tvg-logo="http://picon.space/skynetsports2.png" group-title="Premier League & Efl",Sky Net Sports 2 UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/10919.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 3 UK" tvg-logo="http://picon.space/skynetsports3.png" group-title="Premier League & Efl",Sky Net Sports 3 UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/10918.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 4 UK" tvg-logo="http://picon.space/skynetsports4.png" group-title="Premier League & Efl",Sky Net Sports 4 UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/10917.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 5 UK" tvg-logo="http://picon.space/skynetsports5.png" group-title="Premier League & Efl",Sky Net Sports 5 UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/10916.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 6 UK" tvg-logo="http://picon.space/skynetsports6.png" group-title="Premier League & Efl",Sky Net Sports 6 UK
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/10915.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K TEST" tvg-logo="" group-title="United Kingdom",4K TEST
+https://www.youtube.com/watch?v=D6tC1pyrsTM&vq=hd1080
+#EXTINF:-1 tvg-id="" tvg-name="▬ United States [US] ▬" tvg-logo="http://picon.space/unitedstates.png" group-title="United States",▬ United States [US] ▬
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/16511.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE US" tvg-logo="http://picon.space/wweus.png" group-title="United States",WWE US
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/16572.ts
+#EXTINF:-1 tvg-id="NHL Network US" tvg-name="NHL Network US" tvg-logo="http://picon.space/nhlnetworkus.png" group-title="United States",NHL Network US
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/13688.ts
+#EXTINF:-1 tvg-id="ESPN 1 US" tvg-name="ESPN HD US" tvg-logo="http://picon.space/espnnewsus.png" group-title="United States",ESPN HD US
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/9023.ts
+#EXTINF:-1 tvg-id="ESPN 2 US" tvg-name="ESPN 2 US" tvg-logo="http://picon.space/espn2us.png" group-title="United States",ESPN 2 US
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/9022.ts
+#EXTINF:-1 tvg-id="Syfy US" tvg-name="Syfy HD US" tvg-logo="http://picon.space/syfyhd.png" group-title="United States",Syfy HD US
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/13095.ts
+#EXTINF:-1 tvg-id="Animal Planet US" tvg-name="Animal Planet HD US" tvg-logo="http://picon.space/animalplanethd.png" group-title="United States",Animal Planet HD US
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/12060.ts
+#EXTINF:-1 tvg-id="Discovery Channel US" tvg-name="Discovery Channel US" tvg-logo="http://picon.space/discoverychannelhd.png" group-title="United States",Discovery Channel US
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/15717.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fuel TV US" tvg-logo="http://picon.space/fueltvus.png" group-title="United States",Fuel TV US
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/9484.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Channel US" tvg-logo="" group-title="United States",Fight Channel US
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/17883.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD US" tvg-logo="" group-title="United States",MTV HD US
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/18076.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass HD US" tvg-logo="" group-title="United States",UFC Fight Pass HD US
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/18170.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network US" tvg-logo="" group-title="United States",Fight Network US
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/19654.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENT: FORMULA 1 FHD" tvg-logo="" group-title="Live Events",EVENT: FORMULA 1 FHD
+http://tv.stableiptv.tvip.xyz:80/live/uzhdf9L7800/Ta22Sy6804/23283.ts
